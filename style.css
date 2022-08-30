@@ -42,6 +42,10 @@ body{
   border-bottom-left-radius: 20px;
 }
 
+.navigation ul li:hover{
+  background: orange;
+}
+
 .navigation ul li.active {
   background: #fff;
 }
